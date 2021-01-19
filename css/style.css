@@ -1,0 +1,30 @@
+.navbar{
+    height: 40px;
+
+margin-top: 20px;
+background-color: #2d2654;
+;
+
+}
+.nav a{
+    color: #BBBBBB;
+    font-size:16px;
+    padding: 10px;
+    font-family: DroidSans ;
+    text-decoration: none;
+  
+text-align: center;}
+
+    .nav a:visited {
+        color:#BBBBBB ;
+    }
+    .nav a:hover {
+        color:#ededed ;
+        text-decoration: none;
+    }
+    .nav a:active {
+        color:white ;
+    }
+    .nav li {
+        display: inline-block;}
+
