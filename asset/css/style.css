@@ -103,3 +103,23 @@ h3{
     text-decoration: none;
     padding: 10px
     }
+  
+      .fa {  
+        width: 25px;
+        padding: 20px;
+        font-size: 25px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        color: white;
+        border-radius: 50%; 
+      }
+      .fa-facebook {
+        background: #3B5998;
+      }
+      .fa-twitter {
+        background: #55ACEE;
+      }
+      .fa-instagram {
+        background: #8a3ab9;
+      }
