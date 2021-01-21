@@ -1,3 +1,16 @@
+body {
+
+    background-color: #eee !important;}
+.container{background-color: white;
+        padding-top: 25px !important;
+    margin-top: 20px;
+    margin-bottom:35px ;
+        border-style: solid;
+        border-width: thin;
+        border-color: rgb(199, 196, 196);
+    }
+     
+     
 .navbar{
     height: 50px;
 
