@@ -64,11 +64,27 @@ text-align: center;}
        text-align: center;
        line-height: 32px;
        font-weight: bolder;}
-       h1{
+ h1{
   
         text-align: center;
       text-decoration: none;
     }
+ h2{
+        color: #333333;
+    
+        line-height: 42px;
+        font-weight: normal;
+        font-family: DroidSerif;
+        margin: 0;
+        padding: 10px;
+    }
+    h3{color: #8C8C8C;
+       
+       
+        font-family: DroidSerif;
+        margin: 0px 0px 22px;
+       font-weight: lighter;
+    }   
     .container h1 a:hover{
         text-decoration: none;
         color: #2d2654;
